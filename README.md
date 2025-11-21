@@ -1,16 +1,18 @@
 # Practica 4 - Equipo 2 
 
 1. Títulos
-# Título 1
-## Título 2
-### Título 3
+   
+1. # Título 1
+2. ## Título 2
+3. ### Título 3
 
 2. Énfasis
-**Negritas**
-*Cursiva*
-~~Tachado~~
+   
+1. **Negritas**
+2. *Cursiva*
+3. ~~Tachado~~
 
-3. Lista con guiones
+4. Lista con guiones
 
 - Item 1
 - Item 2
